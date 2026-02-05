@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesanyalamahewa&label=Profile%20views&color=0e75b6&style=flat" alt="thesanyalamahewa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesanyalamahewa" alt="thesanyalamahewa" /></a> </p>
+
 
 - 🌱 I’m currently learning **Azure**
 
@@ -24,7 +24,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesanyalamahewa&show_icons=true&locale=en&layout=compact" alt="thesanyalamahewa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesanyalamahewa&show_icons=true&locale=en" alt="thesanyalamahewa" /></p>
 
