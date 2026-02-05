@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Thesanya Lamahewa</h1>
 <h3 align="center">Writing Code,Fixing bugs,Learning always</h3>
